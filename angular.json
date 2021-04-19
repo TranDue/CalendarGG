@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "CloneGGCalendar"
+  "defaultProject": "CloneGGCalendar",
+  "cli": {
+    "analytics": "9a80a3b4-6bc8-4c4c-8a6a-551df1c98f65"
+  }
 }
